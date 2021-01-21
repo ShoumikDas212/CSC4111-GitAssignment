@@ -1,3 +1,3 @@
-# CSC4111-GitAssignment
-Shoumik Das
+# GitHub and git
+Shoumik Das,
 Go4140@wayne.edu
